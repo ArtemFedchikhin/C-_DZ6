@@ -6,7 +6,7 @@
 // 1, -7, 567, 89, 223-> 3
 
 
-/*
+
 void ReleaseArray(int[] array)
 {
     int count = 0;
@@ -18,5 +18,5 @@ void ReleaseArray(int[] array)
 Console.Clear();
 int[] array = Console.ReadLine().Split(" ").Select(x => int.Parse(x)).ToArray();
 ReleaseArray(array);
-*/
+
 
